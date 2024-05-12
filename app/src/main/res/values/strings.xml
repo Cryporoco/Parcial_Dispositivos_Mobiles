@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Juego de preguntas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boton_empezar">Empezar</string>
+    <string name="intro">Este es un test de 5 preguntas sobre pokemon</string>
+    <string name="pregunta1">¿Con qué habilidad Greninja se transfomará en Greninja Ash</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="fin">Se acabo, tu puntaje fue:</string>
+
+
+</resources>
